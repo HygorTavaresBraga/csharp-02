@@ -1,0 +1,16 @@
+C:\ProjetoSharp\PraticaAula02\bin\Debug\net5.0\PraticaAula02.exe
+C:\ProjetoSharp\PraticaAula02\bin\Debug\net5.0\PraticaAula02.deps.json
+C:\ProjetoSharp\PraticaAula02\bin\Debug\net5.0\PraticaAula02.runtimeconfig.json
+C:\ProjetoSharp\PraticaAula02\bin\Debug\net5.0\PraticaAula02.runtimeconfig.dev.json
+C:\ProjetoSharp\PraticaAula02\bin\Debug\net5.0\PraticaAula02.dll
+C:\ProjetoSharp\PraticaAula02\bin\Debug\net5.0\PraticaAula02.pdb
+C:\ProjetoSharp\PraticaAula02\obj\Debug\net5.0\PraticaAula02.csproj.AssemblyReference.cache
+C:\ProjetoSharp\PraticaAula02\obj\Debug\net5.0\PraticaAula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoSharp\PraticaAula02\obj\Debug\net5.0\PraticaAula02.AssemblyInfoInputs.cache
+C:\ProjetoSharp\PraticaAula02\obj\Debug\net5.0\PraticaAula02.AssemblyInfo.cs
+C:\ProjetoSharp\PraticaAula02\obj\Debug\net5.0\PraticaAula02.csproj.CoreCompileInputs.cache
+C:\ProjetoSharp\PraticaAula02\obj\Debug\net5.0\PraticaAula02.dll
+C:\ProjetoSharp\PraticaAula02\obj\Debug\net5.0\refint\PraticaAula02.dll
+C:\ProjetoSharp\PraticaAula02\obj\Debug\net5.0\PraticaAula02.pdb
+C:\ProjetoSharp\PraticaAula02\obj\Debug\net5.0\PraticaAula02.genruntimeconfig.cache
+C:\ProjetoSharp\PraticaAula02\obj\Debug\net5.0\ref\PraticaAula02.dll
